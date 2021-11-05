@@ -27,7 +27,7 @@ function verifyUsername(username) {
     return true
 }
 ```
-  * lấy ra `usernam` `cookiehanhoan`
+  * lấy ra `username` `cookiehanhoan`
 
   * Tương tự với file thứ 2 lấy ra hàm `reverseString`:
   
