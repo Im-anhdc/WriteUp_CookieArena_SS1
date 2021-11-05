@@ -3,3 +3,10 @@
 
 
 * Use `strings` commad: `strings KB.jpg | grep Flag`
+
+
+
+![image](https://user-images.githubusercontent.com/68783065/140535182-b02eaaba-dfb0-4b47-84fc-b97d0ceafe23.png)
+
+
+* Flag is: `Flag{metadataratatatataaaaaa}`
