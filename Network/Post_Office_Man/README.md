@@ -14,7 +14,7 @@
 
 
 
-* `Port 900` sử dụng giao thức `TCP`
+* `Port 9002` sử dụng giao thức `TCP`
 
 
 * Dùng `telnet` connect: `telnet network.letspentest.org 9002` 
